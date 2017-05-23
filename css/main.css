@@ -295,7 +295,7 @@ hr{
 
     /*background-color: rgba(0,0,0,.4);*/
     /*background-color: #818181;*/
-    background-color: white;
+    background-color: #cccccd;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     padding: 5px 0;
 }
@@ -313,7 +313,8 @@ h1.navbar-brand {
 
 .navbar-inverse .navbar-nav > li > a {
     color: #e21f48;
-    font-size: 15px;
+    font-weight: 400;
+    font-size: 16px;
     /*text-transform: uppercase;*/
 }
 
